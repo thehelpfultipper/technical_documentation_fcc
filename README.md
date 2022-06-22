@@ -12,7 +12,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/
 
 <br>
 
-**Blog Post:** 
+**Blog Post:** [2 Ways To Build A Technical Documentation Page (freeCodeCamp Challenge)](https://thehelpfultipper.com/2-ways-to-build-a-technical-documentation-page-freecodecamp-challenge/)
 
 Find a detailed walkthrough in the blog post on The Helpful Tipper blog (^_^)
 
